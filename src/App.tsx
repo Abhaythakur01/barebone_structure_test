@@ -7,7 +7,7 @@ import Gallery from './components/Gallery';
 import Location from './components/Location';
 import Developer from './components/Developer';
 import Contact from './components/Contact';
-import Footer from './components/Footer';
+//import Footer from './components/Footer';
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
       <Location />
       <Developer />
       <Contact />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
