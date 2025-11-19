@@ -8,9 +8,15 @@ export default function Hero() {
 
       <div className="relative z-10 container mx-auto px-4 grid md:grid-cols-2 gap-8 items-center">
         <div className="text-white space-y-6">
-          <div className="h-12 bg-white bg-opacity-20 w-3/4"></div>
-          <div className="h-8 bg-white bg-opacity-20 w-2/3"></div>
-          <div className="h-6 bg-white bg-opacity-20 w-1/2"></div>
+          <div className="h-12 bg-white bg-opacity-20 w-3/4">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</p>
+          </div>
+          <div className="h-8 bg-white bg-opacity-20 w-2/3">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</p>
+          </div>
+          <div className="h-6 bg-white bg-opacity-20 w-1/2">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</p>
+          </div>
         </div>
 
         <div className="bg-white rounded-lg p-8 shadow-xl">
