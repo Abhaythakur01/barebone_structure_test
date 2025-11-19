@@ -37,7 +37,7 @@ export default function Contact() {
                 <MapPin className="text-blue-600" size={24} />
               </div>
               <div className="flex-1">
-                <h3 className="text-xl font-semibold text-gray-800 mb-2">Corporate Address</h3>
+                <h3 className="text-xl font-semibold text-gray-800 mb-2">Address</h3>
                 <div className="h-6 bg-gray-200 w-full mb-2"></div>
                 <div className="h-6 bg-gray-200 w-5/6 mb-2"></div>
                 <div className="h-6 bg-gray-200 w-2/3"></div>
