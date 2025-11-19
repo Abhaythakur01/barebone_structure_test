@@ -9,7 +9,9 @@ export default function Header() {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center">
-            <div className="w-32 h-12 bg-gray-200"></div>
+            <div className="w-32 h-12 bg-gray-200">
+              <p>Logo</p>
+            </div>
           </div>
 
           <nav className="hidden md:flex items-center space-x-8">
